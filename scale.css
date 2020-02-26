@@ -1,0 +1,22 @@
+body{background-color: cornsilk;
+    padding: 5px;
+font: large;}
+h1{color: pink;
+background-color: blue;}
+p{color: black;
+margin: 0px;}
+p.fourteen{ background-color:red ;}
+p.thirteen{background-color: orange;}
+p.twelve{background-color: yellow;}
+p.eleven{background-color: rgb(55, 243, 55);}
+p.ten{background-color: rgb(89, 89, 240);}
+p.nine{background-color: rgb(137, 11, 226);}
+p.eight{background-color: violet;}
+p.seven{background-color: orangered;}
+p.six{background-color: violet;}
+p.five{background-color: rgb(137, 11, 226);}
+p.four{background-color: rgb(89, 89, 240);}
+p.three{background-color: rgb(55, 243, 55);}
+p.two{background-color: yellow;}
+p.one{background-color: orange;}
+p.zero{ background-color:red ;}
